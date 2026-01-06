@@ -18,5 +18,3 @@ Challenging environments hinder navigation especially for individuals with visua
 - Microcontroller reads the data
 - vibration motor gives feedback based on specific vibration patterns
 
-#prototype images
-![](prototype_breadboard.jpg)
