@@ -20,3 +20,4 @@ Challenging environments hinder navigation especially for individuals with visua
 
 # prototype images
 ![](https://github.com/GodsonTz/obstacle-detection-device/blob/main/images/prototype_breadboard%5B1%5D.jpg)
+![](https://github.com/GodsonTz/obstacle-detection-device/blob/main/images/prototype_testing%5B1%5D.jpg)
