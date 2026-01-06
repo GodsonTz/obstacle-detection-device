@@ -9,13 +9,18 @@ Challenging environments hinder navigation especially for individuals with visua
 
 # system components
 • Microcontroller: ESP32
+
 • Distance sensor: HC-SR04 ultrasonic sensor
+
 • Alert unit:vibration motor
+
 • Power supply: 5v battery
 
 # how it works
 • Sensor emits ultrasonic pulses
+
 • Microcontroller reads the data
+
 • Vibration motor gives feedback based on specific vibration patterns
 
 # prototype images
@@ -24,4 +29,5 @@ Challenging environments hinder navigation especially for individuals with visua
 
 # future improvements
 • AI-based obstacle clasification
+
 • Wearble enclosure
