@@ -8,10 +8,10 @@ This project focuses on designing of  a low-cost obstacle detection device using
 Challenging environments hinder navigation especially for individuals with visual limitations therefore there is a need for a simple and affordable assistive solutions that can improve safety. 
 
 # system components
-- Microcontroller
-- Distance sensor(HC-SR04 ultrasonic sensor)
-- Alert unit(vibration motor)
-- Power supply(5v battery)
+- Microcontroller: ESP32
+- Distance sensor: HC-SR04 ultrasonic sensor
+- Alert unit:vibration motor
+- Power supply: 5v battery
 
 # how it works
 - Sensor emits ultrasonic pulses
