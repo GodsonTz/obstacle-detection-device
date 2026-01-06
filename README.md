@@ -19,4 +19,4 @@ Challenging environments hinder navigation especially for individuals with visua
 - vibration motor gives feedback based on specific vibration patterns
 
 # prototype images
-![Breadboard](prototype_breadboard[1].jpg)
+![Breadboard](https://github.com/GodsonTz/obstacle-detection-device/blob/main/images/prototype_breadboard%5B1%5D.jpg)
